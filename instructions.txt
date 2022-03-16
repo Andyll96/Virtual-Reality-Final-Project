@@ -1,0 +1,32 @@
+http://scs.ryerson.ca/~allactah/
+
+Use Oculus Rift Headset
+
+Have wide open playarea
+
+Virtual ViewFinder orients based on head movement, doesn't reflect camera movement
+
+Recorded Footage from Virtual Camera is saved in mp4 format to a folder called RockVR in Documents Folder.
+
+Right hand Controls:
+
+Right Grip(Tap): enables and disables camera in users hand. The camera is designed to stay in the midpoint between both hands, also the camera orientation is controlled by twisting both wrists in unison in the same direction as the camera takes an average of the movements of both hands.
+
+Right Trigger(Tap): starts and ends recording, ONLY TAP WHEN CAMERA IS ENABLED AND STOP RECORDING BEFORE YOU DISABLE CAMERA.
+
+Right Joystick(up and down): zoom in and out
+
+
+
+Left Hand Controls:
+
+Left Grip(hold): enables teleportation laser, WILL ONLY APPEAR IF YOU ARE POINTED AT THE GROUND, WILL NOT APPEAR IF POINTED TO INFINITY
+
+Left Trigger(tap): while holding left grip, you may tap the left trigger to teleport to that location
+
+Left Y button(tap): play and pause dinosaur animation
+
+Left X button(hold): while holding down the X button, twist your wrists either clockwise(fast forward) or counter clockwise(rewind) to control animation playback.
+
+
+
